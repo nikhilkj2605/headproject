@@ -1,2 +1,2 @@
 print("addition")
-print("5+5=9")
+print("5+5=10")
